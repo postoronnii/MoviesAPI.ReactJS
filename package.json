@@ -4,7 +4,7 @@
   "description": "Movie API Server",
   "main": "src/index.js",
   "license": "MIT",
-  "node": "14.x",
+  "node": "18.x",
   "scripts": {
     "start": "node ./src/index.js",
     "watch": "nodemon --exec npm run start",
